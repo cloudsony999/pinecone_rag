@@ -1,0 +1,176 @@
+COMPANY POLICY
+
+ABC Limited is a fictional private organization providing IT services, software development, consulting, and business solutions.
+The company believes in teamwork, professionalism, innovation, and customer satisfaction.
+Every employee must follow the rules and regulations communicated by the company.
+These policies apply to permanent, temporary, contractual, and probationary employees.
+Employees are expected to maintain professional behavior inside and outside the workplace when representing the company.
+The Human Resources department is responsible for communicating company policies.
+Management may revise company policies when required.
+Employees must read and understand the employee handbook.
+Every employee must acknowledge receipt of the company policies.
+Violation of company policies may result in disciplinary action.
+Standard office working hours are from 9:30 AM to 6:30 PM.
+Employees must report to the office on time.
+Employees must complete eight working hours each day, excluding lunch breaks.
+The standard lunch break is from 1:00 PM to 2:00 PM.
+Employees must inform their reporting manager if they expect to arrive late.
+Repeated late arrivals may result in disciplinary action, subject to applicable law and company policy.
+Employees must not leave the workplace during working hours without permission.
+Employees working remotely must remain available during official working hours.
+Employees must attend scheduled meetings on time.
+Flexible working arrangements require prior approval from the reporting manager.
+Every employee must record daily attendance using the company attendance system.
+Attendance must be recorded at the beginning and end of the working day.
+Employees must not record attendance on behalf of another employee.
+Proxy attendance is strictly prohibited.
+Employees must inform HR about attendance-related technical problems.
+Employees must request corrections if their attendance records are incorrect.
+Unapproved absence may be treated as unauthorized leave.
+Employees must obtain approval before taking planned leave.
+Continuous absence without notification may lead to disciplinary proceedings.
+Attendance records will be maintained by the HR department.
+Employees receive casual leave according to their employment category and company policy.
+Employees receive earned leave according to their employment category and company policy.
+Employees receive sick leave according to their employment category and company policy.
+Leave entitlement may vary according to applicable law and the employee's employment agreement.
+Planned leave should be requested at least three working days in advance.
+Emergency leave must be communicated to the reporting manager as soon as possible.
+Medical certificates may be requested for extended sick leave.
+Employees must not assume leave is approved until they receive confirmation.
+Unused leave will be handled according to the company's leave encashment and carry-forward policy.
+Employees must complete proper handover activities before taking extended leave.
+Employees must behave respectfully toward colleagues, managers, clients, and visitors.
+Discrimination based on gender, religion, caste, disability, or other protected characteristics is prohibited.
+Workplace harassment, bullying, and intimidation are strictly prohibited.
+Employees must maintain professional communication.
+Employees must not use abusive or offensive language at work.
+Employees must respect the opinions and contributions of other employees.
+Employees must avoid conflicts of interest.
+Employees must not accept unauthorized gifts or financial benefits from clients.
+Employees must not misuse their official position for personal benefit.
+Employees must follow all applicable company policies and laws.
+Company computers must be used primarily for official business.
+Employees must not install unauthorized software on company computers.
+Employees must not download pirated software or copyrighted materials illegally.
+Employees must not visit malicious or unauthorized websites using company networks.
+Employees must not share company login credentials with anyone.
+Employees must lock their computers before leaving their desks.
+Employees must report suspicious emails to the IT security team.
+Employees must not connect unknown USB devices to company computers.
+Employees must use company-approved cloud storage services.
+Employees must not use company systems for illegal activities.
+All employees must protect confidential company information.
+Customer information must not be disclosed to unauthorized individuals.
+Employee personal information must be handled confidentially.
+Passwords must be strong and follow IT security requirements.
+Employees must enable multi-factor authentication wherever required.
+Confidential documents must not be shared through personal email accounts.
+Employees must not upload confidential company files to unauthorized AI tools or external platforms.
+Employees must report suspected data breaches immediately.
+Employees must not copy company source code for personal use.
+Confidentiality obligations continue even after an employee leaves the organization.
+Work-from-home arrangements require approval from the reporting manager.
+Employees working remotely must maintain a stable internet connection.
+Employees must be available through official communication channels.
+Employees must attend virtual meetings using approved meeting platforms.
+Employees must maintain a professional environment during video meetings.
+Employees must protect company information while working from home.
+Employees must not allow unauthorized individuals to access company devices.
+Remote employees must submit assigned tasks within agreed deadlines.
+Employees must inform their managers about internet or electricity interruptions.
+Management may review and modify remote working arrangements.
+Employee salaries are paid on the last working day of each month, subject to payroll processing.
+Salary payments are transferred to the employee's registered bank account.
+Employees must provide accurate bank account details to HR.
+Salary slips are made available through the employee portal.
+Employees must report payroll discrepancies to HR.
+Salary revisions are based on performance, company policy, and management approval.
+Incentives and bonuses are provided according to eligibility criteria.
+Statutory deductions will be applied as required by applicable law.
+Employees must not disclose another employee's confidential payroll information.
+Salary advances require approval from the HR and Finance departments.
+Employee performance will be reviewed periodically.
+Managers will evaluate employees based on productivity, quality, teamwork, and responsibility.
+Employees must complete assigned tasks within agreed deadlines.
+Employees should participate in performance review meetings.
+Employees may receive training when performance improvement is required.
+Employees are encouraged to develop new technical and professional skills.
+Outstanding performance may be recognized through awards or incentives.
+Poor performance may result in a formal improvement plan.
+Employees must communicate project-related challenges to their managers.
+Performance evaluation results will be maintained confidentially.
+Employees must wear or carry their official identity cards.
+Employees must not share access cards with unauthorized persons.
+Visitors must register at the reception desk.
+Employees must follow fire safety instructions.
+Emergency exits must remain clear at all times.
+Employees must report workplace accidents immediately.
+Smoking is prohibited in designated non-smoking areas.
+Employees must keep their workstations clean.
+Employees must follow building security instructions.
+Employees must report suspicious activities to the administration department.
+Employees must use official email accounts for business communication.
+Employees should respond to official emails within one working day whenever reasonably possible.
+Employees must use respectful language in company communication channels.
+Employees must not circulate false information about the company.
+Important project decisions must be documented through approved communication channels.
+Employees must attend mandatory team meetings.
+Employees must inform their managers about project delays.
+Company announcements must be treated as official communication.
+Employees must not publish confidential company information on social media.
+Employees must obtain approval before making public statements on behalf of ABC Limited.
+New employees must complete the company induction program.
+Employees must participate in mandatory compliance training.
+Technical employees should continuously update their technical knowledge.
+Employees may request training programs through their reporting managers.
+Training attendance must be recorded by the HR department.
+Employees must complete assigned learning assessments.
+Employees are encouraged to participate in knowledge-sharing sessions.
+Training materials must not be distributed externally without authorization.
+Employees should apply newly acquired skills to their work responsibilities.
+Management may sponsor selected professional certification programs.
+Employees must submit their resignation through the official HR process.
+The standard notice period is 30 days unless the employment contract specifies otherwise.
+Employees must complete pending tasks before their last working day.
+Employees must return all company assets before leaving.
+Employees must transfer project documents and responsibilities to their replacements.
+Final settlement will be processed according to company policy and applicable law.
+Employees must not retain unauthorized copies of company data after separation.
+The HR department will issue experience and relieving letters according to company procedures.
+Termination may occur due to misconduct, policy violations, or other lawful reasons.
+Employees will have an opportunity to respond to disciplinary allegations through the applicable company process.
+Minor policy violations may result in verbal warnings.
+Repeated violations may result in written warnings.
+Serious misconduct may lead to suspension or termination, subject to due process and applicable law.
+Fraud, theft, harassment, and deliberate data theft are considered serious violations.
+Employees must cooperate with authorized internal investigations.
+Employees may submit a written explanation regarding disciplinary allegations.
+HR will maintain records of formal disciplinary proceedings.
+Management must ensure disciplinary actions are fair and consistent.
+Employees may raise grievances through the official HR complaint process.
+All employees are expected to follow the disciplinary procedures established by ABC Limited.
+Employees should ask their reporting manager or HR representative if they need clarification about a company policy.
+Employees must keep their personal and emergency contact details up to date with HR.
+Company property must be used carefully and returned when requested.
+Employees must obtain authorization before making purchases on behalf of the company.
+Business travel must be approved by the appropriate manager before bookings are made.
+Travel expenses must be supported by valid receipts and submitted through the approved process.
+Employees must disclose any actual or potential conflict of interest to HR.
+Employees must not use company resources for personal commercial activities.
+Employees must protect company documents from loss, damage, or unauthorized access.
+Employees must follow the company's records retention and document disposal procedures.
+Employees must not make commitments to customers outside their authority.
+Customer complaints must be shared promptly with the responsible team.
+Employees must treat customers fairly and provide accurate information.
+Employees must not falsify reports, timesheets, attendance records, or expense claims.
+Employees must report suspected fraud or unethical conduct through approved reporting channels.
+The company will handle employee complaints as confidentially as reasonably possible.
+Employees must cooperate with lawful audits and compliance reviews.
+Employees must not retaliate against anyone who raises a concern in good faith.
+Employees should maintain a healthy and safe working environment for themselves and their colleagues.
+Employees must follow any additional lawful instructions issued by authorized management.
+Employees are responsible for reading policy updates communicated by the company.
+Employees must contact the HR department if they have questions about leave, payroll, benefits, or workplace policies.
+This document is a fictional sample created for educational and software development purposes.
+ABC Limited is not a real company, and this document is not a legally reviewed employment contract or HR policy.

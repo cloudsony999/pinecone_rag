@@ -1,0 +1,15 @@
+openai
+langchain
+langchain-core
+langchain-openai
+langchain-text-splitters
+pypdf
+python-docx
+numpy
+pandas
+tiktoken
+faiss-cpu
+pinecone
+python-dotenv
+requests
+streamlit
